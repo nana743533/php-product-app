@@ -1,0 +1,56 @@
+.container {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.title {
+    color: blue;
+    margin-bottom: 40px;
+}
+
+.form {
+    margin-bottom: 10px; 
+}
+
+.form p {
+    float: left;
+    margin: 0 5px 0 0;
+}
+
+.form input select {
+    border: 10px solid gray;
+} 
+
+.search {
+    text-align: right;
+}
+
+.search input {
+    opacity: 0.8;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+
+.search input:hover {
+    opacity: 1
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+table,th,td{
+    border: 1px solid black;
+}
+
+th{
+    text-align: center;
+    padding: 5px;
+}
+
+td {
+    text-align: left;
+    padding: 5px;
+}
