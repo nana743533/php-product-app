@@ -26,14 +26,14 @@ Docker環境上で開発・動作し、簡単な検索フォームから商品�
 
 ## ディレクトリ構成
 
-php-product-app/
-├── docker-compose.yml
-├── Dockerfile
-├── init.sql
-├── doc_root/
-│ ├── index.php
-│ ├── detail.php
-│ └── stylesheet.css
+php-product-app/  
+├── docker-compose.yml  
+├── Dockerfile  
+├── init.sql  
+├── doc_root/  
+│ ├── index.php  
+│ ├── detail.php  
+│ └── stylesheet.css  
 
 
 ---
